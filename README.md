@@ -1,6 +1,6 @@
 # calc-CI-CD
 
 
-Ce dépôt sert pour le datatelier portant sur une pipeline CI/CD avec les Github Actions. On utilisera un programme python qui simulera une calculatrice qu'on valide à l'aide de tests unitaires. À l'aide des github actions, nous mettrons à jour notre calculatrice et nous exécuterons les tests.
+Ce dépôt a pour but de montrer comment mettre à jour une image docker et la pousser vers vers docker.io via Github Action.
 
 Test FCHALON
