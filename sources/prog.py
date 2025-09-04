@@ -6,7 +6,7 @@ les deux entiers
 import calc
 import sys
 
-print("Bienvenue dans cette petite calculatrice sous Python pour entier.\n")
+print("V3 Bienvenue dans cette petite calculatrice sous Python pour entier.\n")
 
 
 def run_calc():
