@@ -1,6 +1,6 @@
 
 FROM ubuntu:latest
-RUN apt-get update && apt-get install python3-pip -y
+RUN apt-get update && apt-get install python3-pip -y && apt-get install telnet
 ADD prog.py prog.py
 ADD calc.py calc.py
 CMD python3 prog.py
